@@ -85,6 +85,7 @@ function myFunction() {
           <a class="navbar-brand" href="#">E-Commerce</a>
 		   <?php
 		session_start();
+    #            print_r($_SESSION['email']);
 		$emailid = $_SESSION['email'];
 		if ($emailid) {
 		?>
