@@ -15,17 +15,17 @@ Update config1.php with proper db data
 browse application
 
 <br>
-Links for debuging
+Links for debuging<br>
 https://www.corrensa.com/how-to-enable-php-mcrypt/
 <br>
-insert db script
+insert db script<br>
 https://stackoverflow.com/questions/17666249/how-to-import-an-sql-file-using-the-command-line-in-mysql
 <br>
-install php module
+install php module<br>
 https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
 <br>
 
-to debug apache2 logs
+to debug apache2 logs<br>
 /var/log/apache2/error.log
 <br>
 
