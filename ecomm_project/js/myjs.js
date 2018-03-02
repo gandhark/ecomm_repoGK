@@ -18,7 +18,7 @@ $(document).ready(function() {
 	
 	 $('#button_login').click(function(){
 		
-		window.location="../ecomm_project/LoginPageincluded.php";
+		window.location="../ecomm_project/LoginPageIncluded.php";
 		
       });
 	  
