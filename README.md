@@ -1,23 +1,22 @@
 # ecomm_repoGK
 ecommerse website <br>
-This is E-Commenrse website developed in basic php.<br>
-with advance css <br>
+This is E-Commenrse website developed in basic php and java script and with advance css.<br>
+php version used > 5.5.6 with php apache related modules <br>
 For Continuous integration ANT build tool is used. <br>
 covers SCA as well using sonarqube <br>
-
 
 <br><br>
 execute script inside mysql <br>
 mysql -u root -p ecomm > ecomm.sql
-
 <br>It will create DB <br>
-Update config1.php with proper db data <br>
-put ecomm_project in /var/www/html directory <br>
+
+<br>Update config1.php with propermysql db username password data <br>
+
+<br>put ecomm_project in /var/www/html directory <br>
 browse application at http://local:80/ecomm_project
-<br>
+<br><br>
 to view admin side of the project browse at http://local:80/ecomm_project
 <br>
-
 admin credentials: admin:admin
 
 
